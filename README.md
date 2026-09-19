@@ -155,11 +155,11 @@ Admin panel → `http://127.0.0.1:8000/admin/`
 ## Contact
 
 **Varada Deekshitha**
-- Email: varadadeekshitha@gmail.com
-- Phone: +91 8019107794
-- LinkedIn: [linkedin.com/in/varada-deekshitha-7b071b309](https://www.linkedin.com/in/varada-deekshitha-7b071b309)
-- GitHub: [github.com/Varada-Deekshitha](https://github.com/Varada-Deekshitha)
-- CodeChef: [codechef.com/users/varadadeekshi](https://www.codechef.com/users/varadadeekshi)
+- Email: XXXXXXXXX@gmail.com
+- Phone: +91 XXXXXXXXXX
+- LinkedIn: XXXXXXXXXXXXXXXXXXXXX
+- GitHub: XXXXXXXXXXXXXXXXXXXXXXX
+- CodeChef: XXXXXXXXXXXXXXXXXXXXX
 
 ---
 
